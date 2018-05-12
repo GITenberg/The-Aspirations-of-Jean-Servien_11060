@@ -1,5 +1,5 @@
 _repo: The-Aspirations-of-Jean-Servien_11060
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Les desirs de Jean Servien. English
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '8208'
     url: http://www.gutenberg.org/2009/agents/8208
     wikipedia: http://en.wikipedia.org/wiki/Alfred_Richard_Allinson
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: France, Anatole
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/755
     wikipedia: http://en.wikipedia.org/wiki/Anatole_France
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11060#The-Aspirations-of-Jean-Servien
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
